@@ -1,12 +1,12 @@
 import React from "react";
-import useSmoothScroll from "./hooks/useSmoothScroll";
-import AnimatedBackdrop from "./components/AnimatedBackdrop";
-import FlipCard from "./components/FlipCard";
-import RevealBox from "./components/RevealBox";
-import BlurStayBox from "./components/BlurStayBox";
-import MemoryGame from "./components/MemoryGame";
-import SimonSays from "./components/SimonSays";
-import Ratings from "./components/Ratings";
+import useSmoothScroll from "./useSmoothScroll";
+import AnimatedBackdrop from "./AnimatedBackdrop";
+import FlipCard from "./FlipCard";
+import RevealBox from "./RevealBox";
+import BlurStayBox from "./BlurStayBox";
+import MemoryGame from "./MemoryGame";
+import SimonSays from "./SimonSays";
+import Ratings from "./Ratings";
 
 export default function App() {
   useSmoothScroll();
